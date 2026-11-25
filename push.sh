@@ -23,29 +23,29 @@ echo "==> 推送到 GitHub..."
 git push
 
 echo "==> 清除 jsDelivr CDN 缓存..."
-purge() {
-  local path="$1"
+purge_file() {
+  local p="$1"
   local res
-  if ! res=$(curl -sf --max-time 15 "https://purge.jsdelivr.net/gh/wcy21k/static_stock@main/$path"); then
-    echo "    ✗ $path（请求失败，可稍后手动访问 https://purge.jsdelivr.net/gh/wcy21k/static_stock@main/$path 重试）"
+  if ! res=$(curl -sf --max-time 15 "https://purge.jsdelivr.net/gh/wcy21k/static_stock@main/$p"); then
+    echo "    ✗ $p（请求失败，可稍后手动访问 https://purge.jsdelivr.net/gh/wcy21k/static_stock@main/$p 重试）"
     return
   fi
-  if echo "$res" | grep -q '"status":"finished"'; then
-    echo "    ✓ $path"
+  if echo "$res" | grep -q '"status": *"finished"'; then
+    echo "    ✓ $p"
   else
-    echo "    ✗ $path（返回：$res）"
+    echo "    ✗ $p（返回：$res）"
   fi
 }
 
 # 固定清除 5 个数据文件
 for f in us-stocks.json a-stocks.json jp-stocks.json kr-stocks.json us-sample-trades.json; do
-  purge "json/$f"
+  purge_file "json/$f"
 done
 
 # 最近一次提交里改动的其它文件（如新增的 logo 图片）也一并清除
 if git rev-parse --verify ORIG_HEAD >/dev/null 2>&1; then
   while IFS= read -r f; do
-    [ -n "$f" ] && purge "$f"
+    [ -n "$f" ] && purge_file "$f"
   done < <(git diff --name-only ORIG_HEAD HEAD || true)
 fi
 
