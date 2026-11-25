@@ -1,5 +1,38 @@
 [
   {
+    "symbol": "ANT",
+    "quoteCode": "usANT",
+    "name": "Anthropic",
+    "subtitle": "Anthropic",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/ant.svg"
+    ],
+    "fallbackText": "ANT",
+    "type": "US"
+  },
+  {
+    "symbol": "ANTO",
+    "quoteCode": "usANTO",
+    "name": "2倍做多Anthropic",
+    "subtitle": "2倍做多Anthropic",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/ant.svg"
+    ],
+    "fallbackText": "ANTO",
+    "type": "US"
+  },
+  {
+    "symbol": "ANDD",
+    "quoteCode": "usANDD",
+    "name": "2倍做空Anthropic",
+    "subtitle": "2倍做空Anthropic",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/ant.svg"
+    ],
+    "fallbackText": "ANDD",
+    "type": "US"
+  },
+  {
     "symbol": "SOXX",
     "quoteCode": "usSOXX",
     "name": "半导体ETF",
@@ -223,17 +256,6 @@
     "type": "US"
   },
   {
-    "symbol": "SNDQ",
-    "quoteCode": "usSNDQ",
-    "name": "2倍做空SNDK",
-    "subtitle": "Tradr 2X Short SNDK Daily ETF",
-    "logoUrls": [
-      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/2x_sndk.svg"
-    ],
-    "fallbackText": "SNDQ",
-    "type": "US"
-  },
-  {
     "symbol": "SNXX",
     "quoteCode": "usSNXX",
     "name": "2倍做多SNDK",
@@ -242,6 +264,17 @@
       "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/2x_sndk.svg"
     ],
     "fallbackText": "SNXX",
+    "type": "US"
+  },
+  {
+    "symbol": "SNDQ",
+    "quoteCode": "usSNDQ",
+    "name": "2倍做空SNDK",
+    "subtitle": "Tradr 2X Short SNDK Daily ETF",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/2x_sndk.svg"
+    ],
+    "fallbackText": "SNDQ",
     "type": "US"
   },
   {
