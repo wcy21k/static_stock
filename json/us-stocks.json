@@ -5,7 +5,7 @@
     "name": "Anthropic",
     "subtitle": "Anthropic",
     "logoUrls": [
-      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/ant.svg"
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/ant.png"
     ],
     "fallbackText": "ANT",
     "type": "US"
@@ -13,10 +13,10 @@
   {
     "symbol": "ANTO",
     "quoteCode": "usANTO",
-    "name": "2倍做多Anthropic",
-    "subtitle": "2倍做多Anthropic",
+    "name": "2倍做多ANT",
+    "subtitle": "2倍做多ANT",
     "logoUrls": [
-      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/ant.svg"
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/direxion.svg"
     ],
     "fallbackText": "ANTO",
     "type": "US"
@@ -24,11 +24,9 @@
   {
     "symbol": "ANDD",
     "quoteCode": "usANDD",
-    "name": "2倍做空Anthropic",
-    "subtitle": "2倍做空Anthropic",
-    "logoUrls": [
-      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/ant.svg"
-    ],
+    "name": "2倍做空ANT",
+    "subtitle": "2倍做空ANT",
+    "logoUrls": [],
     "fallbackText": "ANDD",
     "type": "US"
   },
