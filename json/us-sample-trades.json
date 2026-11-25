@@ -1,0 +1,1312 @@
+{
+  "SPCX": [
+    {
+      "type": "buy",
+      "symbol": "SPCX",
+      "price": 150,
+      "quantity": 5,
+      "date": "2026-06-12 23:04:24",
+      "fee": 1.99,
+      "platform": "ZA Bank"
+    },
+    {
+      "type": "buy",
+      "symbol": "SPCX",
+      "price": 150,
+      "quantity": 5,
+      "date": "2026-06-12 23:34:24",
+      "fee": 1.99,
+      "platform": "ZA Bank"
+    },
+    {
+      "type": "sell",
+      "symbol": "SPCX",
+      "price": 168,
+      "quantity": 5,
+      "date": "2026-06-13 00:11:23",
+      "fee": 2,
+      "platform": "ZA Bank"
+    },
+    {
+      "type": "sell",
+      "symbol": "SPCX",
+      "price": 166,
+      "quantity": 5,
+      "date": "2026-06-13 00:45:42",
+      "fee": 2,
+      "platform": "ZA Bank"
+    },
+    {
+      "type": "buy",
+      "symbol": "SPCX",
+      "price": 210,
+      "quantity": 10,
+      "date": "2026-06-16 22:29:06",
+      "fee": 1.99,
+      "platform": "ZA Bank"
+    }
+  ],
+  "CRIS": [
+    {
+      "type": "buy",
+      "symbol": "CRIS",
+      "price": 1.4,
+      "quantity": 100,
+      "date": "2026-11-04 22:44:24",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "CRIS",
+      "price": 1.3,
+      "quantity": 40,
+      "date": "2026-11-04 22:50:03",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "CRIS",
+      "price": 0.9,
+      "quantity": 140,
+      "date": "2026-11-07 03:19:03",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "MERC": [
+    {
+      "type": "buy",
+      "symbol": "MERC",
+      "price": 0.2,
+      "quantity": 1000,
+      "date": "2026-11-03 22:37:24",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "MERC",
+      "price": 0.24,
+      "quantity": 1000,
+      "date": "2026-11-03 23:59:11",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "MERC",
+      "price": 0.32,
+      "quantity": 1000,
+      "date": "2026-11-04 00:36:22",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "MERC",
+      "price": 0.28,
+      "quantity": 1000,
+      "date": "2026-11-04 00:47:33",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "MERC",
+      "price": 0.25,
+      "quantity": 2000,
+      "date": "2026-11-07 04:10:00",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "SGRX": [
+    {
+      "type": "buy",
+      "symbol": "SGRX",
+      "price": 0.9,
+      "quantity": 200,
+      "date": "2026-11-03 22:39:06",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SGRX",
+      "price": 0.7,
+      "quantity": 200,
+      "date": "2026-11-03 22:54:09",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "BURU": [
+    {
+      "type": "buy",
+      "symbol": "BURU",
+      "price": 0.48,
+      "quantity": 500,
+      "date": "2026-10-30 21:45:30",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "BURU",
+      "price": 0.44,
+      "quantity": 500,
+      "date": "2026-10-30 22:14:00",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "XXII": [
+    {
+      "type": "buy",
+      "symbol": "XXII",
+      "price": 0.3,
+      "quantity": 1000,
+      "date": "2026-10-23 21:37:30",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "XXII",
+      "price": 0.31,
+      "quantity": 1000,
+      "date": "2026-10-23 21:42:06",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "XXII",
+      "price": 0.3,
+      "quantity": 1000,
+      "date": "2026-10-23 21:44:09",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "XXII",
+      "price": 0.1009,
+      "quantity": 1000,
+      "date": "2026-10-26 21:41:06",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "OLOX": [
+    {
+      "type": "buy",
+      "symbol": "OLOX",
+      "price": 1,
+      "quantity": 200,
+      "date": "2026-10-21 21:44:30",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "OLOX",
+      "price": 1.05,
+      "quantity": 200,
+      "date": "2026-10-21 22:01:24",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "OLOX",
+      "price": 0.97,
+      "quantity": 100,
+      "date": "2026-10-21 22:23:30",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "OLOX",
+      "price": 1,
+      "quantity": 100,
+      "date": "2026-10-21 23:00:24",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "FRTT": [
+    {
+      "type": "buy",
+      "symbol": "FRTT",
+      "price": 0.8,
+      "quantity": 500,
+      "date": "2026-10-20 21:33:11",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "FRTT",
+      "price": 0.65,
+      "quantity": 500,
+      "date": "2026-10-20 23:31:06",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "SAFX": [
+    {
+      "type": "buy",
+      "symbol": "SAFX",
+      "price": 0.19,
+      "quantity": 1000,
+      "date": "2026-10-19 21:47:22",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SAFX",
+      "price": 0.18,
+      "quantity": 1000,
+      "date": "2026-10-19 21:54:33",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SAFX",
+      "price": 0.19,
+      "quantity": 1000,
+      "date": "2026-10-19 22:32:10",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SAFX",
+      "price": 0.15005,
+      "quantity": 1000,
+      "date": "2026-10-20 00:02:12",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "XLAB": [
+    {
+      "type": "buy",
+      "symbol": "XLAB",
+      "price": 3,
+      "quantity": 100,
+      "date": "2026-10-16 22:21:11",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "XLAB",
+      "price": 2.9,
+      "quantity": 100,
+      "date": "2026-10-16 22:36:22",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "XLAB",
+      "price": 2.5,
+      "quantity": 200,
+      "date": "2026-10-17 03:01:06",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "XLAB",
+      "price": 2.75,
+      "quantity": 100,
+      "date": "2026-10-19 21:30:11",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "XLAB",
+      "price": 3.2,
+      "quantity": 100,
+      "date": "2026-10-19 21:35:06",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "SDST": [
+    {
+      "type": "buy",
+      "symbol": "SDST",
+      "price": 0.045,
+      "quantity": 10000,
+      "date": "2026-10-15 21:59:24",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SDST",
+      "price": 0.05,
+      "quantity": 10000,
+      "date": "2026-10-15 23:33:13",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SDST",
+      "price": 0.044,
+      "quantity": 10000,
+      "date": "2026-10-16 00:40:11",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SDST",
+      "price": 0.03,
+      "quantity": 10000,
+      "date": "2026-10-16 23:04:13",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "GLND": [
+    {
+      "type": "buy",
+      "symbol": "GLND",
+      "price": 3.8,
+      "quantity": 290,
+      "date": "2026-10-14 22:19:11",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GLND",
+      "price": 3.89,
+      "quantity": 200,
+      "date": "2026-10-14 22:30:13",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GLND",
+      "price": 3.95,
+      "quantity": 90,
+      "date": "2026-10-14 22:35:22",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "GLND",
+      "price": 3.8,
+      "quantity": 200,
+      "date": "2026-10-14 22:43:05",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GLND",
+      "price": 4,
+      "quantity": 200,
+      "date": "2026-10-14 22:51:02",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "GLND",
+      "price": 3.8,
+      "quantity": 100,
+      "date": "2026-10-14 23:07:07",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GLND",
+      "price": 3.875,
+      "quantity": 100,
+      "date": "2026-10-14 23:13:28",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "GLND",
+      "price": 3.85,
+      "quantity": 200,
+      "date": "2026-10-15 00:22:07",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GLND",
+      "price": 4,
+      "quantity": 200,
+      "date": "2026-10-15 00:36:11",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "OLB": [
+    {
+      "type": "buy",
+      "symbol": "OLB",
+      "price": 0.528,
+      "quantity": 2000,
+      "date": "2026-10-09 01:42:11",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "OLB",
+      "price": 0.55,
+      "quantity": 2000,
+      "date": "2026-10-09 01:59:32",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "OLB",
+      "price": 0.6,
+      "quantity": 1500,
+      "date": "2026-10-09 21:32:01",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "OLB",
+      "price": 0.63,
+      "quantity": 1500,
+      "date": "2026-10-09 21:45:23",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "OLB",
+      "price": 0.61,
+      "quantity": 1500,
+      "date": "2026-10-09 22:34:01",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "OLB",
+      "price": 0.56,
+      "quantity": 320,
+      "date": "2026-10-09 23:18:22",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "OLB",
+      "price": 0.635,
+      "quantity": 1000,
+      "date": "2026-10-13 03:01:45",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "OLB",
+      "price": 0.65,
+      "quantity": 820,
+      "date": "2026-10-13 03:02:33",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "TOPP": [
+    {
+      "type": "buy",
+      "symbol": "TOPP",
+      "price": 0.172,
+      "quantity": 10000,
+      "date": "2026-10-08 01:39:22",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "TOPP",
+      "price": 0.175,
+      "quantity": 10000,
+      "date": "2026-10-08 03:34:03",
+      "fee": 0.04,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "TOPP",
+      "price": 0.17,
+      "quantity": 3700,
+      "date": "2026-10-09 00:36:06",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "TOPP",
+      "price": 0.18,
+      "quantity": 3700,
+      "date": "2026-10-09 01:52:19",
+      "fee": 0.01,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "SNDK": [
+    {
+      "type": "buy",
+      "symbol": "SNDK",
+      "price": 1660,
+      "quantity": 1,
+      "date": "2026-07-15 21:37:58",
+      "fee": 1.99,
+      "platform": "ZA Bank"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDK",
+      "price": 1600,
+      "quantity": 1,
+      "date": "2026-07-15 22:13:33",
+      "fee": 1.99,
+      "platform": "ZA Bank"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDK",
+      "price": 1390,
+      "quantity": 1,
+      "date": "2026-07-21 03:06:13",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNDK",
+      "price": 1570,
+      "quantity": 2,
+      "date": "2026-08-14 01:27:50",
+      "fee": 2,
+      "platform": "ZA Bank"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNDK",
+      "price": 1690,
+      "quantity": 1,
+      "date": "2026-08-18 19:00:50",
+      "fee": 0.03,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDK",
+      "price": 1440,
+      "quantity": 1,
+      "date": "2026-08-28 21:30:13",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNDK",
+      "price": 1505,
+      "quantity": 1,
+      "date": "2026-08-28 22:25:36",
+      "fee": 0.03,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDK",
+      "price": 1460,
+      "quantity": 1,
+      "date": "2026-08-31 11:33:26",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNDK",
+      "price": 1465,
+      "quantity": 1,
+      "date": "2026-08-31 12:53:46",
+      "fee": 0.03,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDK",
+      "price": 1470,
+      "quantity": 1,
+      "date": "2026-09-01 02:56:26",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNDK",
+      "price": 1565,
+      "quantity": 1,
+      "date": "2026-09-01 03:57:36",
+      "fee": 0.03,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDK",
+      "price": 1735,
+      "quantity": 1,
+      "date": "2026-09-09 03:59:26",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDK",
+      "price": 1700,
+      "quantity": 1,
+      "date": "2026-09-11 17:31:22",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDK",
+      "price": 1625,
+      "quantity": 1,
+      "date": "2026-09-11 22:03:36",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNDK",
+      "price": 1790,
+      "quantity": 2,
+      "date": "2026-09-19 03:57:46",
+      "fee": 0.07,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNDK",
+      "price": 1792,
+      "quantity": 1,
+      "date": "2026-09-19 04:09:21",
+      "fee": 0.04,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "SNDQ": [
+    {
+      "type": "buy",
+      "symbol": "SNDQ",
+      "price": 10.7,
+      "quantity": 100,
+      "date": "2026-09-22 21:04:46",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDQ",
+      "price": 10.65,
+      "quantity": 100,
+      "date": "2026-09-22 21:27:26",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNDQ",
+      "price": 9.15,
+      "quantity": 100,
+      "date": "2026-09-22 22:07:31",
+      "fee": 0.04,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNDQ",
+      "price": 9.3,
+      "quantity": 100,
+      "date": "2026-09-22 22:16:43",
+      "fee": 0.04,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDQ",
+      "price": 10.33,
+      "quantity": 50,
+      "date": "2026-09-24 19:00:26",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDQ",
+      "price": 10.325,
+      "quantity": 50,
+      "date": "2026-09-24 19:00:26",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDQ",
+      "price": 10.1,
+      "quantity": 50,
+      "date": "2026-09-24 21:47:06",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNDQ",
+      "price": 10.26,
+      "quantity": 150,
+      "date": "2026-09-25 00:41:22",
+      "fee": 0.06,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDQ",
+      "price": 15.3,
+      "quantity": 45,
+      "date": "2026-10-13 21:31:06",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "SNDQ",
+      "price": 14.8,
+      "quantity": 30,
+      "date": "2026-10-13 22:12:33",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNDQ",
+      "price": 14.425,
+      "quantity": 75,
+      "date": "2026-10-14 03:55:06",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "SNXX": [
+    {
+      "type": "buy",
+      "symbol": "SNXX",
+      "price": 16.3,
+      "quantity": 180,
+      "date": "2026-10-05 21:54:11",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNXX",
+      "price": 14.8,
+      "quantity": 80,
+      "date": "2026-10-07 21:32:02",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNXX",
+      "price": 15,
+      "quantity": 50,
+      "date": "2026-10-07 21:48:13",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "SNXX",
+      "price": 15.5,
+      "quantity": 50,
+      "date": "2026-10-07 22:18:14",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "LITX": [
+    {
+      "type": "buy",
+      "symbol": "LITX",
+      "price": 39.2,
+      "quantity": 20,
+      "date": "2026-10-02 21:30:12",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "LITX",
+      "price": 38.5,
+      "quantity": 20,
+      "date": "2026-10-02 21:55:32",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "LITX",
+      "price": 39.75,
+      "quantity": 40,
+      "date": "2026-10-02 22:00:03",
+      "fee": 0.03,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "LITX",
+      "price": 41,
+      "quantity": 20,
+      "date": "2026-10-02 22:52:31",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "LITX",
+      "price": 40.5,
+      "quantity": 20,
+      "date": "2026-10-02 23:12:22",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "LITX",
+      "price": 41.5,
+      "quantity": 20,
+      "date": "2026-10-02 23:15:51",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "LITX",
+      "price": 41.5,
+      "quantity": 20,
+      "date": "2026-10-02 23:22:22",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "MUU": [
+    {
+      "type": "buy",
+      "symbol": "MUU",
+      "price": 37,
+      "quantity": 30,
+      "date": "2026-09-25 00:45:14",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "MUU",
+      "price": 36.6,
+      "quantity": 20,
+      "date": "2026-09-28 10:54:12",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "MUU",
+      "price": 35.95,
+      "quantity": 20,
+      "date": "2026-09-28 18:38:23",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "MUU",
+      "price": 35,
+      "quantity": 20,
+      "date": "2026-09-28 22:43:53",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "MUU",
+      "price": 35,
+      "quantity": 5,
+      "date": "2026-10-01 22:00:03",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "MUU",
+      "price": 35.545,
+      "quantity": 5,
+      "date": "2026-10-01 23:17:21",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "MUU",
+      "price": 36.45,
+      "quantity": 90,
+      "date": "2026-10-02 01:05:33",
+      "fee": 0.07,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "MUU",
+      "price": 38.2,
+      "quantity": 10,
+      "date": "2026-10-02 21:31:16",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "MUU",
+      "price": 38,
+      "quantity": 10,
+      "date": "2026-10-02 21:55:25",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "MUU",
+      "price": 38.65,
+      "quantity": 20,
+      "date": "2026-10-02 22:19:06",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "MUU",
+      "price": 38.35,
+      "quantity": 20,
+      "date": "2026-10-02 22:36:15",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "MUU",
+      "price": 38,
+      "quantity": 20,
+      "date": "2026-10-02 22:46:01",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "MUU",
+      "price": 37,
+      "quantity": 40,
+      "date": "2026-10-03 02:38:12",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "MUU",
+      "price": 37.2,
+      "quantity": 40,
+      "date": "2026-10-03 03:55:33",
+      "fee": 0.03,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "MUU",
+      "price": 36.9615,
+      "quantity": 40,
+      "date": "2026-10-03 04:57:16",
+      "fee": 0.03,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "GPRO": [
+    {
+      "type": "buy",
+      "symbol": "GPRO",
+      "price": 1.35,
+      "quantity": 1500,
+      "date": "2026-09-01 22:00:00",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GPRO",
+      "price": 1.35,
+      "quantity": 1500,
+      "date": "2026-09-03 00:13:22",
+      "fee": 0.33,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "GPRO",
+      "price": 1.7885,
+      "quantity": 2000,
+      "date": "2026-09-03 19:00:10",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "GPRO",
+      "price": 1.47,
+      "quantity": 1000,
+      "date": "2026-09-04 01:33:10",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GPRO",
+      "price": 1.6039,
+      "quantity": 1000,
+      "date": "2026-09-04 21:45:12",
+      "fee": 0.23,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GPRO",
+      "price": 1.68,
+      "quantity": 500,
+      "date": "2026-09-04 21:54:02",
+      "fee": 0.12,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GPRO",
+      "price": 1.75,
+      "quantity": 500,
+      "date": "2026-09-04 22:03:31",
+      "fee": 0.12,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GPRO",
+      "price": 1.9,
+      "quantity": 500,
+      "date": "2026-09-04 22:12:21",
+      "fee": 0.12,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GPRO",
+      "price": 1.92,
+      "quantity": 500,
+      "date": "2026-09-04 22:25:42",
+      "fee": 0.12,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "GPRO",
+      "price": 1.45,
+      "quantity": 1000,
+      "date": "2026-09-08 23:53:10",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "GPRO",
+      "price": 1.44,
+      "quantity": 1000,
+      "date": "2026-09-09 21:44:21",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "GPRO",
+      "price": 1.6,
+      "quantity": 1000,
+      "date": "2026-09-10 23:02:12",
+      "fee": 0.23,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "GPRO",
+      "price": 1.41,
+      "quantity": 1000,
+      "date": "2026-09-11 20:21:11",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "GPRO",
+      "price": 1.27,
+      "quantity": 1000,
+      "date": "2026-10-07 23:34:22",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "GPRO",
+      "price": 1.18,
+      "quantity": 1000,
+      "date": "2026-10-09 02:05:02",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "DAMD": [
+    {
+      "type": "buy",
+      "symbol": "DAMD",
+      "price": 8.97,
+      "quantity": 200,
+      "date": "2026-09-21 22:56:03",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "DAMD",
+      "price": 8.9,
+      "quantity": 100,
+      "date": "2026-09-21 23:00:12",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "DAMD",
+      "price": 9.15,
+      "quantity": 300,
+      "date": "2026-09-22 01:15:22",
+      "fee": 0.12,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "AVGO": [
+    {
+      "type": "buy",
+      "symbol": "AVGO",
+      "price": 358,
+      "quantity": 5,
+      "date": "2026-09-03 04:15:00",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "AVGO",
+      "price": 355.39,
+      "quantity": 5,
+      "date": "2026-09-05 00:36:10",
+      "fee": 0.04,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "MRVL": [
+    {
+      "type": "buy",
+      "symbol": "MRVL",
+      "price": 240,
+      "quantity": 5,
+      "date": "2026-08-26 16:48:29",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "MRVL",
+      "price": 218.0204,
+      "quantity": 5,
+      "date": "2026-08-28 23:57:31",
+      "fee": 0.02,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "NVDA": [
+    {
+      "type": "buy",
+      "symbol": "NVDA",
+      "price": 213.5,
+      "quantity": 2,
+      "date": "2026-08-26 18:30:19",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "buy",
+      "symbol": "NVDA",
+      "price": 210,
+      "quantity": 4,
+      "date": "2026-08-27 01:30:19",
+      "fee": 0,
+      "platform": "Charles Schwab"
+    },
+    {
+      "type": "sell",
+      "symbol": "NVDA",
+      "price": 230,
+      "quantity": 6,
+      "date": "2026-08-28 01:23:19",
+      "fee": 0.03,
+      "platform": "Charles Schwab"
+    }
+  ],
+  "DRAM": [
+    {
+      "type": "buy",
+      "symbol": "DRAM",
+      "price": 56.5,
+      "quantity": 1,
+      "date": "2026-07-15 23:41:59",
+      "fee": 1.99,
+      "platform": "ZA Bank"
+    }
+  ]
+}

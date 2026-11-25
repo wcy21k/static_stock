@@ -1,0 +1,244 @@
+[
+  {
+    "symbol": "688836",
+    "quoteCode": "sh688836",
+    "name": "宇树科技",
+    "subtitle": "宇树科技",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/20260819/stock_ab_688836_3166.png"
+    ],
+    "fallbackText": "宇树",
+    "type": "SH"
+  },
+  {
+    "symbol": "688825",
+    "quoteCode": "sh688825",
+    "name": "长鑫科技",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/20260710/stock_ab_688825_1642.png"
+    ],
+    "fallbackText": "长鑫",
+    "type": "SH"
+  },
+  {
+    "symbol": "300308",
+    "quoteCode": "sz300308",
+    "name": "中际旭创",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_300308.svg"
+    ],
+    "fallbackText": "中际",
+    "type": "SZ"
+  },
+  {
+    "symbol": "300750",
+    "quoteCode": "sz300750",
+    "name": "宁德时代",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/ab_300750_9575.svg"
+    ],
+    "fallbackText": "宁德",
+    "type": "SZ"
+  },
+  {
+    "symbol": "688008",
+    "quoteCode": "sh688008",
+    "name": "澜起科技",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_688008.svg"
+    ],
+    "fallbackText": "澜起",
+    "type": "SH"
+  },
+  {
+    "symbol": "688525",
+    "quoteCode": "sh688525",
+    "name": "佰维存储",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/ab_688525_3533.svg"
+    ],
+    "fallbackText": "佰维",
+    "type": "SH"
+  },
+  {
+    "symbol": "688256",
+    "quoteCode": "sh688256",
+    "name": "寒武纪",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/ab_688256_7218.svg"
+    ],
+    "fallbackText": "寒武",
+    "type": "SH"
+  },
+  {
+    "symbol": "688012",
+    "quoteCode": "sh688012",
+    "name": "中微公司",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/ab_688012_5837.svg"
+    ],
+    "fallbackText": "中微",
+    "type": "SH"
+  },
+  {
+    "symbol": "600460",
+    "quoteCode": "sh600460",
+    "name": "士兰微",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_600460.svg"
+    ],
+    "fallbackText": "士兰",
+    "type": "SH"
+  },
+  {
+    "symbol": "688981",
+    "quoteCode": "sh688981",
+    "name": "中芯国际",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_688981.svg"
+    ],
+    "fallbackText": "中芯",
+    "type": "SH"
+  },
+  {
+    "symbol": "603228",
+    "quoteCode": "sh603228",
+    "name": "景旺电子",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_603228.svg"
+    ],
+    "fallbackText": "景旺",
+    "type": "SH"
+  },
+  {
+    "symbol": "600584",
+    "quoteCode": "sh600584",
+    "name": "长电科技",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_600584.svg"
+    ],
+    "fallbackText": "长电",
+    "type": "SH"
+  },
+  {
+    "symbol": "301308",
+    "quoteCode": "sz301308",
+    "name": "江波龙",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_301308.svg"
+    ],
+    "fallbackText": "江波",
+    "type": "SZ"
+  },
+  {
+    "symbol": "001309",
+    "quoteCode": "sz001309",
+    "name": "德明利",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_001309.svg"
+    ],
+    "fallbackText": "德明",
+    "type": "SZ"
+  },
+  {
+    "symbol": "688041",
+    "quoteCode": "sh688041",
+    "name": "海光信息",
+    "subtitle": "",
+    "logoUrls": [
+      "\thttps://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_688041.svg"
+    ],
+    "fallbackText": "海光",
+    "type": "SH"
+  },
+  {
+    "symbol": "002156",
+    "quoteCode": "sz002156",
+    "name": "通富微电",
+    "subtitle": "",
+    "logoUrls": [
+      "\thttps://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_002156.svg"
+    ],
+    "fallbackText": "通富",
+    "type": "SZ"
+  },
+  {
+    "symbol": "002185",
+    "quoteCode": "sz002185",
+    "name": "华天科技",
+    "subtitle": "",
+    "logoUrls": [
+      "\thttps://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_002185.svg"
+    ],
+    "fallbackText": "华天",
+    "type": "SZ"
+  },
+  {
+    "symbol": "688795",
+    "quoteCode": "sh688795",
+    "name": "摩尔线程",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/20251119/stock_ab_688795_2001.png"
+    ],
+    "fallbackText": "摩尔",
+    "type": "SH"
+  },
+  {
+    "symbol": "688802",
+    "quoteCode": "sh688802",
+    "name": "沐曦股份",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/20251217/stock_ab_688802_5505.png"
+    ],
+    "fallbackText": "沐曦",
+    "type": "SH"
+  },
+  {
+    "symbol": "300604",
+    "quoteCode": "sz300604",
+    "name": "长川科技",
+    "subtitle": "",
+    "logoUrls": [
+      "\thttps://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_300604.svg"
+    ],
+    "fallbackText": "长川",
+    "type": "SZ"
+  },
+  {
+    "symbol": "002371",
+    "quoteCode": "sz002371",
+    "name": "北方华创",
+    "subtitle": "",
+    "logoUrls": [
+      "\thttps://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_002371.svg"
+    ],
+    "fallbackText": "北方",
+    "type": "SZ"
+  },
+  {
+    "symbol": "688347",
+    "quoteCode": "sh688347",
+    "name": "华虹宏力",
+    "subtitle": "",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_ab_688347.svg"
+    ],
+    "fallbackText": "华虹",
+    "type": "SH"
+  }
+]

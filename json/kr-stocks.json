@@ -1,0 +1,24 @@
+[
+  {
+    "symbol": "000660.KS",
+    "quoteCode": "kr000660",
+    "name": "SK Hynix",
+    "subtitle": "SK hynix",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/20260710/stock_us_SKHY_3520.png"
+    ],
+    "fallbackText": "SK",
+    "type": "KR"
+  },
+  {
+    "symbol": "005930.KS",
+    "quoteCode": "kr005930",
+    "name": "Samsung Electronics",
+    "subtitle": "Samsung Electronics Co Ltd",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/samsung.svg"
+    ],
+    "fallbackText": "Samsung",
+    "type": "KR"
+  }
+]

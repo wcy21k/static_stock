@@ -1,0 +1,555 @@
+[
+  {
+    "symbol": "SOXX",
+    "quoteCode": "usSOXX",
+    "name": "半导体ETF",
+    "subtitle": "iShares Semiconductor ETF",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/ishares.svg"
+    ],
+    "fallbackText": "SOXX",
+    "type": "US"
+  },
+  {
+    "symbol": "SOXL",
+    "quoteCode": "usSOXL",
+    "name": "三倍做多SOXX",
+    "subtitle": "Direxion Daily Semicondct Bull 3X ETF",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/2x_mu.svg"
+    ],
+    "fallbackText": "SOXL",
+    "type": "US"
+  },
+  {
+    "symbol": "SOXS",
+    "quoteCode": "usSOXS",
+    "name": "三倍做空SOXX",
+    "subtitle": "Direxion Daily Semicondct Bear 3X ETF",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/2x_mu.svg"
+    ],
+    "fallbackText": "SOXS",
+    "type": "US"
+  },
+  {
+    "symbol": "GPRO",
+    "quoteCode": "usGPRO",
+    "name": "GoPro",
+    "subtitle": "GoPro, Inc.",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_GPRO.svg"
+    ],
+    "fallbackText": "GPRO",
+    "type": "US"
+  },
+  {
+    "symbol": "CRIS",
+    "quoteCode": "usCRIS",
+    "name": "Crisp, Inc.",
+    "subtitle": "Crisp, Inc.",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/cris.svg"
+    ],
+    "fallbackText": "CRIS",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "MERC",
+    "quoteCode": "usMERC",
+    "name": "Mercer International Inc.",
+    "subtitle": "Mercer International Inc.",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/merc.svg"
+    ],
+    "fallbackText": "MERC",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "SGRX",
+    "quoteCode": "usSGRX",
+    "name": "SANGRIX INC.",
+    "subtitle": "SANGRIX INC.",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/sgrx.svg"
+    ],
+    "fallbackText": "SGRX",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "BURU",
+    "quoteCode": "usBURU",
+    "name": "Nuburu, Inc.",
+    "subtitle": "Nuburu, Inc.",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/buru.svg"
+    ],
+    "fallbackText": "BURU",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "XXII",
+    "quoteCode": "usXXII",
+    "name": "22nd Century Group, Inc",
+    "subtitle": "22nd Century Group, Inc",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/xxii.svg"
+    ],
+    "fallbackText": "XXII",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "OLOX",
+    "quoteCode": "usOLOX",
+    "name": "Olenox Industries Inc.",
+    "subtitle": "Olenox Industries Inc.",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/olox.svg"
+    ],
+    "fallbackText": "OLOX",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "FRTT",
+    "quoteCode": "usFRTT",
+    "name": "Fort Technology Inc.",
+    "subtitle": "Fort Technology Inc.",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/frtt.svg"
+    ],
+    "fallbackText": "FRTT",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "SAFX",
+    "quoteCode": "usSAFX",
+    "name": "XCF Global, Inc.",
+    "subtitle": "XCF Global, Inc.",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/safx.svg"
+    ],
+    "fallbackText": "SAFX",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "XLAB",
+    "quoteCode": "usXLAB",
+    "name": "Exascale Labs Holdings Inc.",
+    "subtitle": "Exascale Labs Holdings Inc.",
+    "logoUrls": [
+      ""
+    ],
+    "fallbackText": "XLAB",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "SDST",
+    "quoteCode": "usSDST",
+    "name": "Stardust Power Inc.",
+    "subtitle": "Stardust Power Inc.",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/sdst.svg"
+    ],
+    "fallbackText": "SDST",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "GLND",
+    "quoteCode": "usGLND",
+    "name": "Greenland Energy Company",
+    "subtitle": "Greenland Energy Company",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/glnd.svg"
+    ],
+    "fallbackText": "GLND",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "OLB",
+    "quoteCode": "usOLB",
+    "name": "OLB",
+    "subtitle": "The OLB Group, Inc.",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/olb.svg"
+    ],
+    "fallbackText": "OLB",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "TOPP",
+    "quoteCode": "usTOPP",
+    "name": "Toppoint",
+    "subtitle": "Toppoint Holdings Inc.",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/topp.svg"
+    ],
+    "fallbackText": "TOPP",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "SPCX",
+    "quoteCode": "usSPCX",
+    "name": "SpaceX",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/20260612/stock_us_SPCX_0144.png"
+    ],
+    "fallbackText": "SPCX",
+    "type": "US"
+  },
+  {
+    "symbol": "SNDK",
+    "quoteCode": "usSNDK",
+    "name": "SanDisk",
+    "subtitle": "SanDisk Corp.",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_SNDK.svg",
+      "https://www.sandisk.com/favicon.ico",
+      "https://logo.clearbit.com/sandisk.com"
+    ],
+    "fallbackText": "SD",
+    "type": "US"
+  },
+  {
+    "symbol": "SNDQ",
+    "quoteCode": "usSNDQ",
+    "name": "2倍做空SNDK",
+    "subtitle": "Tradr 2X Short SNDK Daily ETF",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/2x_sndk.svg"
+    ],
+    "fallbackText": "SNDQ",
+    "type": "US"
+  },
+  {
+    "symbol": "SNXX",
+    "quoteCode": "usSNXX",
+    "name": "2倍做多SNDK",
+    "subtitle": "Tradr 2X Long SNXX Daily ETF",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/2x_sndk.svg"
+    ],
+    "fallbackText": "SNXX",
+    "type": "US"
+  },
+  {
+    "symbol": "MU",
+    "quoteCode": "usMU",
+    "name": "Micron Technology",
+    "subtitle": "Micron Technology",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_MU.svg",
+      "https://www.micron.com/favicon.ico",
+      "https://logo.clearbit.com/micron.com"
+    ],
+    "fallbackText": "MU",
+    "type": "US"
+  },
+  {
+    "symbol": "MUU",
+    "quoteCode": "usMUU",
+    "name": "2倍做多MU",
+    "subtitle": "Direxion Daily MU Bull 2X ETF",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/2x_mu.svg"
+    ],
+    "fallbackText": "MUU",
+    "type": "US"
+  },
+  {
+    "symbol": "SKHY",
+    "quoteCode": "usSKHY",
+    "name": "SK Hynix",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/20260710/stock_us_SKHY_3520.png"
+    ],
+    "fallbackText": "SKHY",
+    "type": "US"
+  },
+  {
+    "symbol": "AMD",
+    "quoteCode": "usAMD",
+    "name": "Advanced Micro Devices",
+    "subtitle": "Advanced Micro Devices",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_AMD.svg",
+      "https://www.amd.com/favicon.ico",
+      "https://logo.clearbit.com/amd.com"
+    ],
+    "fallbackText": "A",
+    "type": "US"
+  },
+  {
+    "symbol": "DAMD",
+    "quoteCode": "usDAMD",
+    "name": "2倍做空AMD",
+    "subtitle": "Direxion Daily AMD Bear 2X ETF",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/DAMD.svg"
+    ],
+    "fallbackText": "DAMD",
+    "type": "US"
+  },
+  {
+    "symbol": "LITE",
+    "quoteCode": "usLITE",
+    "name": "Lumentum",
+    "subtitle": "Lumentum",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_LITE.svg"
+    ],
+    "fallbackText": "LITE",
+    "type": "US"
+  },
+  {
+    "symbol": "LITX",
+    "quoteCode": "usLITX",
+    "name": "2倍做多LITE",
+    "subtitle": "LITX",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/2x_sndk.svg"
+    ],
+    "fallbackText": "LITX",
+    "type": "US"
+  },
+  {
+    "symbol": "INTC",
+    "quoteCode": "usINTC",
+    "name": "Intel",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_INTC.svg"
+    ],
+    "fallbackText": "INTC",
+    "type": "US"
+  },
+  {
+    "symbol": "ARM",
+    "quoteCode": "usARM",
+    "name": "ARM",
+    "subtitle": "ARM Holdings",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_ARM.svg"
+    ],
+    "fallbackText": "ARM",
+    "type": "US"
+  },
+  {
+    "symbol": "TSM",
+    "quoteCode": "usTSM",
+    "name": "Taiwan Semiconductor",
+    "subtitle": "Taiwan Semiconductor Manufacturing",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_TSM.svg",
+      "https://www.tsmc.com/favicon.ico",
+      "https://logo.clearbit.com/tsmc.com"
+    ],
+    "fallbackText": "TS",
+    "type": "US"
+  },
+  {
+    "symbol": "CIEN",
+    "quoteCode": "usCIEN",
+    "name": "Ciena",
+    "subtitle": "Ciena",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_CIEN.svg"
+    ],
+    "fallbackText": "CIEN",
+    "type": "US"
+  },
+  {
+    "symbol": "SNOW",
+    "quoteCode": "usSNOW",
+    "name": "Snowflake",
+    "subtitle": "Snowflake Computing",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_SNOW.svg"
+    ],
+    "fallbackText": "SNOW",
+    "type": "US"
+  },
+  {
+    "symbol": "ASML",
+    "quoteCode": "usASML",
+    "name": "ASML Holding",
+    "subtitle": "ASML",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_ASML.svg"
+    ],
+    "fallbackText": "ASML",
+    "type": "US"
+  },
+  {
+    "symbol": "AVGO",
+    "quoteCode": "usAVGO",
+    "name": "Broadcom",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_AVGO.svg"
+    ],
+    "fallbackText": "AVGO",
+    "type": "US"
+  },
+  {
+    "symbol": "MRVL",
+    "quoteCode": "usMRVL",
+    "name": "Marvell Technology",
+    "subtitle": "Marvell Technology",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_MRVL.svg"
+    ],
+    "fallbackText": "MRVL",
+    "type": "US"
+  },
+  {
+    "symbol": "NVDA",
+    "quoteCode": "usNVDA",
+    "name": "NVIDIA",
+    "subtitle": "NVIDIA",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_NVDA.svg",
+      "https://www.nvidia.com/favicon.ico",
+      "https://logo.clearbit.com/nvidia.com"
+    ],
+    "fallbackText": "N",
+    "type": "US"
+  },
+  {
+    "symbol": "AAPL",
+    "quoteCode": "usAAPL",
+    "name": "Apple",
+    "subtitle": "Apple",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_AAPL.svg",
+      "https://www.apple.com/favicon.ico",
+      "https://logo.clearbit.com/apple.com"
+    ],
+    "fallbackText": "A",
+    "type": "US"
+  },
+  {
+    "symbol": "MSFT",
+    "quoteCode": "usMSFT",
+    "name": "Microsoft",
+    "subtitle": "Microsoft",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_MSFT.svg",
+      "https://www.microsoft.com/favicon.ico",
+      "https://logo.clearbit.com/microsoft.com"
+    ],
+    "fallbackText": "M",
+    "type": "US"
+  },
+  {
+    "symbol": "GOOGL",
+    "quoteCode": "usGOOGL",
+    "name": "Alphabet",
+    "subtitle": "Alphabet",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_GOOGL.svg",
+      "https://www.google.com/favicon.ico",
+      "https://logo.clearbit.com/google.com"
+    ],
+    "fallbackText": "G",
+    "type": "US"
+  },
+  {
+    "symbol": "AMZN",
+    "quoteCode": "usAMZN",
+    "name": "Amazon",
+    "subtitle": "Amazon",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_AMZN.svg",
+      "https://www.amazon.com/favicon.ico",
+      "https://logo.clearbit.com/amazon.com"
+    ],
+    "fallbackText": "AM",
+    "type": "US"
+  },
+  {
+    "symbol": "META",
+    "quoteCode": "usMETA",
+    "name": "Meta Platforms",
+    "subtitle": "Meta Platforms",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_META.svg",
+      "https://about.meta.com/favicon.ico",
+      "https://logo.clearbit.com/meta.com"
+    ],
+    "fallbackText": "M",
+    "type": "US"
+  },
+  {
+    "symbol": "TSLA",
+    "quoteCode": "usTSLA",
+    "name": "Tesla",
+    "subtitle": "Tesla",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/logo/stocks/stock_us_TSLA.svg",
+      "https://www.tesla.com/favicon.ico",
+      "https://logo.clearbit.com/tesla.com"
+    ],
+    "fallbackText": "T",
+    "type": "US"
+  },
+  {
+    "symbol": "DRAM",
+    "quoteCode": "usDRAM",
+    "name": "Roundhill Memory ETF",
+    "logoUrls": [
+      "https://cdn.jsdelivr.net/gh/wcy21k/static_fund@main/images/DRAM.svg"
+    ],
+    "fallbackText": "DRAM",
+    "type": "US"
+  },
+  {
+    "symbol": "QQQ",
+    "quoteCode": "usQQQ",
+    "name": "Invesco QQQ Trust",
+    "subtitle": "Invesco QQQ Trust",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/icons/qqq.svg?authorization=bce-auth-v1%2FALTAKO2HklqHKsKK1hUYgysK2c%2F2025-04-20T18%3A19%3A11Z%2F-1%2F%2F61fd3127684d47be66112bf7644fcd911705e161064675d8044c4929e590b7b8",
+      "https://www.invesco.com/etc/designs/invesco/favicon.ico",
+      "https://logo.clearbit.com/invesco.com"
+    ],
+    "fallbackText": "QQQ",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "QQQM",
+    "quoteCode": "usQQQM",
+    "name": "Invesco NASDAQ 100 ETF",
+    "subtitle": "Invesco NASDAQ 100 ETF",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/icons/qqq.svg?authorization=bce-auth-v1%2FALTAKO2HklqHKsKK1hUYgysK2c%2F2025-04-20T18%3A19%3A11Z%2F-1%2F%2F61fd3127684d47be66112bf7644fcd911705e161064675d8044c4929e590b7b8",
+      "https://www.invesco.com/etc/designs/invesco/favicon.ico",
+      "https://logo.clearbit.com/invesco.com"
+    ],
+    "fallbackText": "QM",
+    "tracking": false,
+    "type": "US"
+  },
+  {
+    "symbol": "SPY",
+    "quoteCode": "usSPY",
+    "name": "SPDR S&P 500 ETF",
+    "logoUrls": [
+      "https://baidu-finance.cdn.bcebos.com/imgs/icons/spy.svg?authorization=bce-auth-v1%2FALTAKO2HklqHKsKK1hUYgysK2c%2F2025-04-20T18%3"
+    ],
+    "fallbackText": "SPY",
+    "tracking": false,
+    "type": "US"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "symbol": "285A.T",
+    "quoteCode": "jp285A",
+    "name": "Kioxia Holdings",
+    "subtitle": "Kioxia Holdings",
+    "logoUrls": [
+      "https://bkimg.cdn.bcebos.com/pic/c2fdfc039245d688d43f4245549a6a1ed21b0ff48e83?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536"
+    ],
+    "fallbackText": "Kioxia",
+    "type": "JP"
+  }
+]
